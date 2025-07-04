@@ -1,16 +1,26 @@
-## Hi there 👋
+##  👋 Hi there  Ramnath Kale
+
+## 🚀 Technologies Used
+- Java
+- MySQL
+- HTML/CSS
+- JavaScript
+- Spring Boot (optional)
+
+## 🛠️ Features
+- Admin Interface
+- Add/Edit/Delete Products
+- Inventory Report Generation
+- Exception Handling
+- Unit Testing
 
 
-**RamKale26/RamKale26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Contact me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+📧 kaleramnth2003@gmail.com  
+📍 Pune, Maharashtra  
+📄 [Resume PDF](link-to-your-resume-on-Google-Drive-or-another-repo)
+
 
